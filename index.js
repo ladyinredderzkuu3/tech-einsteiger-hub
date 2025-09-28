@@ -3,9 +3,9 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-    res.send('Willkommen beim Tech-Einsteiger Hub!');
+    res.send('Welcome to the Tech Beginner Hub!');
 });
 
 app.listen(PORT, () => {
-    console.log(`Server läuft auf http://localhost:${PORT}`);
+    console.log(`Server running at http://localhost:${PORT}`);
 });
