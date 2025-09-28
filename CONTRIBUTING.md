@@ -10,6 +10,6 @@ Vielen Dank, dass Sie daran interessiert sind, zu diesem Projekt beizutragen! Hi
 
 1. Forken Sie das Repository.
 2. Erstellen Sie Ihren Branch (`git checkout -b feature/YourFeature`).
-3. Commiten Sie Ihre Änderungen (`git commit -m 'Add some feature'`).
+3. Commiten Sie Ihre Änderungen (`git commit -m 'Add a new feature or fix an issue'`).
 4. Pushen Sie Ihren Branch (`git push origin feature/YourFeature`).
 5. Erstellen Sie einen Pull-Request.
